@@ -77,7 +77,7 @@ Feel free to send us feedback on Twitter [@polyrunapp](https://twitter.com/polyr
 [twitter-shield]: https://img.shields.io/twitter/follow/polyrunapp?style=social
 [twitter-url]: https://twitter.com/polyrunapp
 
-[nano-shield]: https://img.shields.io/badge/nano-nano__11zix1ojeniorw8ipibru4syticgmd6qimh8wws4fdo5ch7q8ogxc9w9yn4c-%23209CE9
-[nano-url]: https://nano.to/nano_11zix1ojeniorw8ipibru4syticgmd6qimh8wws4fdo5ch7q8ogxc9w9yn4c
+[nano-shield]: https://img.shields.io/badge/nano-nano__3po1yrun1qrproqtq699p748ymduwp856qsk64x4yftca7onp5t1t81mxeeu-%23209CE9
+[nano-url]: https://nano.to/nano_3po1yrun1qrproqtq699p748ymduwp856qsk64x4yftca7onp5t1t81mxeeu
 
 [product-screenshot]: images/screenshot.png
