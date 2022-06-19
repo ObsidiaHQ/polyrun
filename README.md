@@ -19,9 +19,11 @@
     <br />
     <a href="https://polyrun.app">Visit Website</a>
     ·
-    <a href="https://github.com/obsidiaHQ/polyrun/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBug%5D">Report Bug</a>
+    <a href="https://github.com/obsidiaHQ/polyrun/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBug%5D">Report a bug</a>
     ·
-    <a href="https://github.com/obsidiaHQ/polyrun/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BNew+feature%5D">Request Feature</a>
+    <a href="https://github.com/obsidiaHQ/polyrun/discussions/new?category=ideas&template=feature_request.md&title=%5BNew+feature%5D">Request a feature</a>
+    ·
+    <a href="https://github.com/obsidiaHQ/polyrun/discussions/new?category=general">Start a discussion</a>
   </p>
 </div>
 
